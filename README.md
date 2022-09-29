@@ -6,4 +6,4 @@ The main difficulty of the problem is that it must be solved using recursion onl
 
 > console.log(recursiveCounter(10))
 
-<sub>1 2 3 4 5 6 7 8 9 10</sub>
+> <sub>1 2 3 4 5 6 7 8 9 10</sub>
