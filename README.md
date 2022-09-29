@@ -5,4 +5,5 @@ Given a natural number n. Write a recursive function that returns a string of nu
 The main difficulty of the problem is that it must be solved using recursion only.
 
 > console.log(recursiveCounter(10))
-> 1 2 3 4 5 6 7 8 9 10
+
+1 2 3 4 5 6 7 8 9 10
