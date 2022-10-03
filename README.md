@@ -6,5 +6,6 @@ The main difficulty of the problem is that it must be solved using recursion onl
 
 Sample Input:
 7
+
 Sample Output:
 1 2 3 4 5 6 7
